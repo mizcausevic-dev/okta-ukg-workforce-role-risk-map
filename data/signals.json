@@ -1,0 +1,54 @@
+{
+  "name": "Okta UKG Workforce Role Risk Map",
+  "slug": "okta-ukg-workforce-role-risk-map",
+  "group": "Okta + UKG",
+  "platforms": [
+    "Okta",
+    "UKG"
+  ],
+  "vertical": "IAM / Security / HR Tech",
+  "signals": [
+    {
+      "lane": "termination lag",
+      "exposure": 58,
+      "savings": 14,
+      "investment": 52,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "role mismatch",
+      "exposure": 62,
+      "savings": 17,
+      "investment": 54,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "stale application access",
+      "exposure": 66,
+      "savings": 20,
+      "investment": 56,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "manager attestation",
+      "exposure": 70,
+      "savings": 23,
+      "investment": 58,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "privilege exceptions",
+      "exposure": 74,
+      "savings": 26,
+      "investment": 60,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    },
+    {
+      "lane": "license waste",
+      "exposure": 78,
+      "savings": 29,
+      "investment": 62,
+      "boardStory": "Evidence lane for board-ready risk, savings, investment, and narrative decisions."
+    }
+  ]
+}

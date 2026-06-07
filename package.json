@@ -1,0 +1,10 @@
+{
+  "name": "okta-ukg-workforce-role-risk-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workforce role risk map for Okta role assignments, UKG job codes, and manager-safe attestations.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
